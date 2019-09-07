@@ -918,12 +918,11 @@ footer p{
     box-shadow: 0 3px 5px rgba(0,0,0,.2);
     color: #e881a7;
 }
-@media (max-width:767px){
+@media (min-width:768px){
   .main .carousel{
-    width: 30%;
     position: absolute;
-    bottom:50px;
-    left: 10;
+    bottom:0px;
+    left:0;
 }  
 }
 

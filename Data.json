@@ -1,0 +1,18 @@
+{
+    "worksData": {
+        "Fullpage": [
+            { "id": 1, "title": "RWD網站", "context": "使用Ajax、Vue.js搭配bootsrap", "img": "https://picsum.photos/id/684/600/400", "gitLink": "yahoo.com.tw", "webLink": "google.com.tw" }
+        ],
+        "Practical": [
+            { "id": 1, "title": "RWD網站", "context": "使用Ajax、Vue.js搭配bootsrap", "img": "https://picsum.photos/id/684/600/400", "gitLink": "yahoo.com.tw", "webLink": "google.com.tw" }
+        ],
+        "Multipage": [
+            { "id": 1, "title": "RWD網站", "context": "使用Ajax、Vue.js搭配bootsrap", "img": "https://picsum.photos/id/684/600/400", "gitLink": "yahoo.com.tw", "webLink": "google.com.tw" }
+        ]
+
+
+
+
+    }
+
+}
